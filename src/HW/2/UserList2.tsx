@@ -19,7 +19,7 @@ export const UserList2 = (props: UserList2PropsType) => {
         {props.users.myFriends.map((user) => (
           <>
             <CurrentUser user={user} />
-            <h1>changes</h1>
+            <h1>changesfasdfasdfasdf</h1>
           </>
         ))}
       </ul>
